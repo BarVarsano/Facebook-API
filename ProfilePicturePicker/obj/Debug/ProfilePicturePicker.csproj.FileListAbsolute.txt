@@ -1,0 +1,13 @@
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\ProfilePicturePicker\bin\Debug\ProfilePicturePicker.dll
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\ProfilePicturePicker\bin\Debug\ProfilePicturePicker.pdb
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\ProfilePicturePicker\bin\Debug\Facebook.dll
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\ProfilePicturePicker\bin\Debug\FbGraphApiWrapper.dll
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\ProfilePicturePicker\obj\Debug\ProfilePicturePicker.csprojResolveAssemblyReference.cache
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\ProfilePicturePicker\obj\Debug\ProfilePicturePicker.AlbumViewerController.resources
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\ProfilePicturePicker\obj\Debug\ProfilePicturePicker.PhotosSelectorController.resources
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\ProfilePicturePicker\obj\Debug\ProfilePicturePicker.ProfilePicturePickerController.resources
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\ProfilePicturePicker\obj\Debug\ProfilePicturePicker.Properties.Resources.resources
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\ProfilePicturePicker\obj\Debug\ProfilePicturePicker.PhotosToUploadController.resources
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\ProfilePicturePicker\obj\Debug\ProfilePicturePicker.csproj.GenerateResource.Cache
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\ProfilePicturePicker\obj\Debug\ProfilePicturePicker.dll
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\ProfilePicturePicker\obj\Debug\ProfilePicturePicker.pdb

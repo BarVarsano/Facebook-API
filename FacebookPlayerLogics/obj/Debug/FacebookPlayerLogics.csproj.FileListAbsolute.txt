@@ -1,0 +1,7 @@
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FacebookPlayerLogics\bin\Debug\FacebookPlayerLogics.dll
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FacebookPlayerLogics\bin\Debug\FacebookPlayerLogics.pdb
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FacebookPlayerLogics\bin\Debug\Facebook.dll
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FacebookPlayerLogics\bin\Debug\FbGraphApiWrapper.dll
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FacebookPlayerLogics\obj\Debug\FacebookPlayerLogics.csprojResolveAssemblyReference.cache
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FacebookPlayerLogics\obj\Debug\FacebookPlayerLogics.dll
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FacebookPlayerLogics\obj\Debug\FacebookPlayerLogics.pdb

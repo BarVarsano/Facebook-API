@@ -1,0 +1,9 @@
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\PostStatus\bin\Debug\PostStatus.dll
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\PostStatus\bin\Debug\PostStatus.pdb
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\PostStatus\bin\Debug\Facebook.dll
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\PostStatus\bin\Debug\FbGraphApiWrapper.dll
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\PostStatus\obj\Debug\PostStatus.csprojResolveAssemblyReference.cache
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\PostStatus\obj\Debug\PostStatus.PostSatusController.resources
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\PostStatus\obj\Debug\PostStatus.csproj.GenerateResource.Cache
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\PostStatus\obj\Debug\PostStatus.dll
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\PostStatus\obj\Debug\PostStatus.pdb

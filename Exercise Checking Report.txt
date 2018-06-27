@@ -1,0 +1,10 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 3
+First Student Details.: 305759292 - Amir Barak
+Second Student Details: 307929497 - Bar Varsano
+Delivery Date.........: 18 - September - 2017
+Delivered In Delay....: No
+Delay Reason..........: None
+Visual Studio Version.: 2015
+Comments..............: None
+========================End Exercise Checking Report========================

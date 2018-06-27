@@ -1,0 +1,9 @@
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FriendsBirthday\bin\Debug\FriendsBirthday.dll
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FriendsBirthday\bin\Debug\FriendsBirthday.pdb
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FriendsBirthday\bin\Debug\Facebook.dll
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FriendsBirthday\bin\Debug\FbGraphApiWrapper.dll
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FriendsBirthday\obj\Debug\FriendsBirthday.csprojResolveAssemblyReference.cache
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FriendsBirthday\obj\Debug\FriendsBirthday.FriendsBirthdayController.resources
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FriendsBirthday\obj\Debug\FriendsBirthday.csproj.GenerateResource.Cache
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FriendsBirthday\obj\Debug\FriendsBirthday.dll
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FriendsBirthday\obj\Debug\FriendsBirthday.pdb

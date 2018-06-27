@@ -1,0 +1,13 @@
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FacebookPlayer\bin\Debug\FacebookPlayer.dll
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FacebookPlayer\bin\Debug\FacebookPlayer.pdb
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FacebookPlayer\bin\Debug\Facebook.dll
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FacebookPlayer\bin\Debug\FacebookPlayerLogics.dll
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FacebookPlayer\bin\Debug\FbGraphApiWrapper.dll
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FacebookPlayer\bin\Debug\FacebookPlayerLogics.pdb
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FacebookPlayer\obj\Debug\FacebookPlayer.csprojResolveAssemblyReference.cache
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FacebookPlayer\obj\Debug\FacebookPlayer.FacebookPlayerController.resources
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FacebookPlayer\obj\Debug\FacebookPlayer.Properties.Resources.resources
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FacebookPlayer\obj\Debug\FacebookPlayer.SongPlayerController.resources
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FacebookPlayer\obj\Debug\FacebookPlayer.csproj.GenerateResource.Cache
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FacebookPlayer\obj\Debug\FacebookPlayer.dll
+F:\FacebookAPI\C17 Ex03 AmirBarak 305759292 BarVarsano 307929497\FacebookPlayer\obj\Debug\FacebookPlayer.pdb
